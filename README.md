@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu0101-dev
-- 👀 I’m interested in javascript , css , html
-- 🌱 I’m currently learning about web development
+- 👀 I’m interested in javascript , css , html , Python , flask , Python librarires ( Numpy , Pandas) .
+- 🌱 I’m a Frontend developer ! currently , going to upgrade my skills as Full Stack Developer.
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me { himanshu2002ver@gmail.com} mail me .
 - 😄 Pronouns: english or hindi
