@@ -1,42 +1,54 @@
-# 👋 Hi, I'm Himanshu Verma (@Himanshu0101-dev)  
+# Hi, I'm Himanshu Verma 👋
 
-🚀 **Frontend Developer | Aspiring Full Stack Developer | Python Enthusiast**  
-
----
-
-### 👨‍💻 About Me  
-- 🌱 Currently upgrading my skills from **Frontend Development** to **Full Stack Development**  
-- 💡 Passionate about creating interactive, user-friendly, and scalable web applications  
-- 🔧 Skilled in **JavaScript, HTML, CSS, Python, Flask**, and Python libraries (**NumPy, Pandas**)  
-- 🤝 Always open to collaborate on exciting and innovative projects  
-- 🌍 Languages: English & Hindi  
+🎯 Competitive Programmer | C++ & Python Developer | AI/ML Enthusiast  
+🚀 Full‑Stack Web Developer | Problem Solver | Tech Explorer  
 
 ---
 
-### 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
+## 💡 About Me
+- 🏆 Solved 500+ problems across GeeksforGeeks, LeetCode, and Codeforces  
+- 📚 Strong in Data Structures & Algorithms (Dynamic Programming, Graphs, Optimization)  
+- 🔐 Exploring Cybersecurity tools and AI/ML prototypes  
+- 🌱 Currently polishing my GeeksforGeeks profile for recruiter visibility  
+- ☕ Fueled by dry fruits & code  
 
 ---
+
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, Java, JavaScript  
+- **Web:** HTML, CSS, React, Node.js, MongoDB  
+- **AI/ML:** TensorFlow, PyTorch  
+- **Other:** Git, GitHub Actions, Docker  
+
+---
+
+## 📂 Featured Projects
+- 🔎 **Algorithm Visualizer Toolkit** — Python app to debug and visualize DSA problems  
+- 🌐 **Portfolio Website** — Responsive full‑stack personal site built with React & Node.js  
+- 🤖 **AI/ML Experiments** — Prototypes using TensorFlow & PyTorch  
+- ⚡ **Competitive Programming Solutions** — Judge‑friendly C++/Python solutions  
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/himanshu-verma-88657736a/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/himanshuyuj3)  
+- [Email](himanshu2002ver@gmail.com)  
+
+---
+
 
 ### 📊 GitHub Stats  
 ![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu0101-dev&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Himanshu0101-dev&theme=radical)  
 
----
-
-### 📫 How to Reach Me  
-- 📧 Email: **[himanshu2002ver@gmail.com](mailto:himanshu2002ver@gmail.com)**  
-
----
-
 ### 😄 Fun Fact  
 I love working with **full enthusiasm and creativity** — and I make sure the people working with me enjoy the journey as much as I do!  
 
+- 🧩 I treat debugging like solving puzzles — every bug is a mystery waiting to be cracked.  
+- ☕ My day starts with soaked dry fruits instead of coffee — brain fuel for coding marathons.  
+- 🌍 I enjoy blending logic with creativity, whether it’s building scalable solutions or crafting unique project ideas.  
+- 🎮 Competitive programming feels like a strategy game to me — every problem is a new level to beat.  
+
 ---
-✨ _Always learning. Always building. Always improving._  
+
