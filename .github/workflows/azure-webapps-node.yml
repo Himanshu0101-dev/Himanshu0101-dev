@@ -7,7 +7,7 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: my-fullstack-app
-  NODE_VERSION: '24.x'   # Updated Node version
+  NODE_VERSION: '24.x'
 
 jobs:
   build:
@@ -21,7 +21,6 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: 'npm'
-          # Make sure this file exists; change to yarn.lock if needed
           cache-dependency-path: ./frontend/package-lock.json
 
       - name: Install & Build Frontend
